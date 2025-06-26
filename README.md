@@ -35,3 +35,18 @@ cd server
 npm install
 npm run server
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing](./screenshots/landingpage.png)
+
+### Login
+![Login](./screenshots/login.png)
+
+### Client Dashboard
+![Client](./screenshots/dashboard-client.png)
+
+### Freelancer Dashboard
+![Freelancer](./screenshots/dashboard-Freelancer.png)
+
+
