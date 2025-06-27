@@ -11,16 +11,12 @@ SB Works is a full-stack MERN application for connecting freelancers and clients
 - Backend: Node.js, Express.js
 - Database: MongoDB (Mongoose)
 - Authentication: JWT, bcrypt
-- Deployment: (If not deployed, leave blank)
 
-## 📸 Screenshots
-(Add screenshots here of Landing Page, Login, Dashboard, etc.)
 
 ## 📂 Features
 - User registration & login (client/freelancer)
 - Post & bid on projects
 - Real-time messaging (chat)
-- Project submission & feedback
 
 ## 🧠 Project Structure
 - `client/`: Frontend React code
@@ -38,4 +34,6 @@ npm start
 cd server
 npm install
 npm run server
+
+
 
