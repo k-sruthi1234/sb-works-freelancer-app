@@ -38,3 +38,7 @@ npm run server
 ##Demo Video
 https://drive.google.com/file/d/1V-PD5rYijaXCy5OOZp8akLYBJ2X5hav6/view?usp=drive_link
 
+
+##Report
+https://docs.google.com/document/d/1Aa0cnZibjI77zA1XsAinYzzsVSk2ZUEV/edit?usp=drive_link&ouid=108836924312401860341&rtpof=true&sd=true
+
